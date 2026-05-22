@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LinkUp",
+  "description": "A Minimum Viable Product for a LinkUp-style messaging app with real-time multi-tab synching, OTP phone login flow, editable user profiles, interactive contacts, and Gemini-simulated friends with typing states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
